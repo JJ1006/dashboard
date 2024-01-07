@@ -34,7 +34,7 @@ const App = () => {
                 type="button"
                 onClick={() => setThemeSettings(true)}
                 style={{ background: currentColor, borderRadius: '50%' }}
-                className="text-3xl text-white p-3 hover:drop-shadow-xl hover:bg-light-gray"
+                className="text-3xl text-black p-3 hover:drop-shadow-xl hover:bg-gray-400"
               >
                 <FiSettings />
               </button>
@@ -61,7 +61,8 @@ const App = () => {
               <Navbar />
             </div>
             <div>
-              {themeSettings && (<ThemeSettings />)}
+              {/* {themeSettings && (<ThemeSettings />)} */}
+              <ThemeSettings />
 
               <Routes>
                 {/* dashboard  */}
