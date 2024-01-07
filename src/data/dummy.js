@@ -1524,8 +1524,8 @@ export const employeesData = [
   },
   {
     EmployeeID: 5,
-    Name: 'Omar Darobe',
-    Title: 'HR',
+    Name: 'Jaahanava Joshi',
+    Title: 'Project Manager',
     HireDate: '01/02/2021',
     Country: 'USA',
     ReportsTo: 'Carson',
