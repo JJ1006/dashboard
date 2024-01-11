@@ -12,10 +12,10 @@ import React from 'react';
 
 const Footer = () => {
   const footerStyle = {
-    position: 'fixed',
+    // position: 'sticky',
     bottom: 0,
-    // left: 0,
-    // right: 0,
+    left: 0,
+    right: 0,
     width: '100%',
     backgroundColor: '#f0f0f0',
     textAlign: 'center',
