@@ -979,8 +979,8 @@ export const customersData = [
   {
     CustomerID: 1005,
 
-    CustomerName: 'Michael',
-    CustomerEmail: 'michael@gmail.com',
+    CustomerName: 'Jaahanava Joshi',
+    CustomerEmail: 'jaahanavajoshi@gmail.com',
     ProjectName: 'Weekly WP Theme',
     Status: 'Cancel',
     CustomerImage:

@@ -61,8 +61,8 @@ const App = () => {
               <Navbar />
             </div>
             <div>
-              {/* {themeSettings && (<ThemeSettings />)} */}
-              <ThemeSettings />
+              {themeSettings && (<ThemeSettings />)}
+              {/* <ThemeSettings /> */}
 
               <Routes>
                 {/* dashboard  */}
